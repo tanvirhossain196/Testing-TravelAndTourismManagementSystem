@@ -1,0 +1,461 @@
+2025-06-25 11:29:37 - === SYSTEM STARTUP ===
+2025-06-25 11:29:37 - Travel & Tourism Management System v1.0
+2025-06-25 11:29:37 - Startup time: 2025-06-25 11:29:37
+2025-06-25 11:29:37 - Java Version: 21.0.1
+2025-06-25 11:29:37 - Operating System: Windows 11
+2025-06-25 11:29:37 - File system initialized
+2025-06-25 11:29:37 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 11:29:37 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 11:29:37 - Core managers initialized
+2025-06-25 11:29:37 - System settings configured successfully
+2025-06-25 11:29:37 - Sample users created
+2025-06-25 11:29:37 - Sample packages created
+2025-06-25 11:29:37 - Sample hotels created
+2025-06-25 11:29:37 - Initial data seeded successfully
+2025-06-25 11:29:37 - Initial data seeding completed
+2025-06-25 11:29:37 - === SYSTEM HEALTH CHECK ===
+2025-06-25 11:29:37 - Total users: 5
+2025-06-25 11:29:37 - Total packages: 3
+2025-06-25 11:29:37 - Total hotels: 2
+2025-06-25 11:29:37 - Total guides: 2
+2025-06-25 11:29:37 - Total transports: 2
+2025-06-25 11:29:37 - Background tasks initialized
+2025-06-25 11:29:57 - User logged in successfully: tanvir12@gmail.com
+2025-06-25 11:29:57 - Authentication successful for: tanvir12@gmail.com (Role: TOURIST)
+2025-06-25 11:29:57 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir Hossain (tanvir12@gmail.com) | Role: TOURIST | Time: 2025-06-25 11:29:57
+2025-06-25 11:29:57 - USER_ACTIVITY: LOGIN | User: Tanvir Hossain (tanvir12@gmail.com) | Role: TOURIST | Time: 2025-06-25 11:29:57
+2025-06-25 11:29:57 - User logged in: tanvir12@gmail.com
+2025-06-25 11:30:07 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 11:30:07 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 11:30:07 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 11:30:07 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 21:31:40 - === SYSTEM STARTUP ===
+2025-06-25 21:31:40 - Travel & Tourism Management System v1.0
+2025-06-25 21:31:40 - Startup time: 2025-06-25 21:31:40
+2025-06-25 21:31:40 - Java Version: 21.0.1
+2025-06-25 21:31:40 - Operating System: Windows 11
+2025-06-25 21:31:40 - File system initialized
+2025-06-25 21:31:40 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 21:31:40 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 21:31:40 - Core managers initialized
+2025-06-25 21:31:40 - System settings configured successfully
+2025-06-25 21:31:40 - Sample users created
+2025-06-25 21:31:40 - Sample packages created
+2025-06-25 21:31:40 - Sample hotels created
+2025-06-25 21:31:40 - Initial data seeded successfully
+2025-06-25 21:31:40 - Initial data seeding completed
+2025-06-25 21:31:40 - === SYSTEM HEALTH CHECK ===
+2025-06-25 21:31:40 - Total users: 5
+2025-06-25 21:31:40 - Total packages: 3
+2025-06-25 21:31:40 - Total hotels: 2
+2025-06-25 21:31:40 - Total guides: 2
+2025-06-25 21:31:40 - Total transports: 2
+2025-06-25 21:31:40 - Background tasks initialized
+2025-06-25 21:32:00 - === SYSTEM STARTUP ===
+2025-06-25 21:32:00 - Travel & Tourism Management System v1.0
+2025-06-25 21:32:00 - Startup time: 2025-06-25 21:32:00
+2025-06-25 21:32:00 - Java Version: 21.0.1
+2025-06-25 21:32:00 - Operating System: Windows 11
+2025-06-25 21:32:00 - File system initialized
+2025-06-25 21:32:00 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 21:32:00 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 21:32:00 - Core managers initialized
+2025-06-25 21:32:00 - System settings configured successfully
+2025-06-25 21:32:00 - Sample users created
+2025-06-25 21:32:00 - Sample packages created
+2025-06-25 21:32:00 - Sample hotels created
+2025-06-25 21:32:00 - Initial data seeded successfully
+2025-06-25 21:32:00 - Initial data seeding completed
+2025-06-25 21:32:00 - === SYSTEM HEALTH CHECK ===
+2025-06-25 21:32:00 - Total users: 5
+2025-06-25 21:32:00 - Total packages: 3
+2025-06-25 21:32:00 - Total hotels: 2
+2025-06-25 21:32:00 - Total guides: 2
+2025-06-25 21:32:00 - Total transports: 2
+2025-06-25 21:32:00 - Background tasks initialized
+2025-06-25 21:33:28 - User added: tanvir22@gmail.com
+2025-06-25 21:33:28 - Welcome email sent to: tanvir22@gmail.com
+2025-06-25 21:33:28 - New user registered: tanvir22@gmail.com (Role: TOURIST)
+2025-06-25 21:33:28 - USER_ACTIVITY: REGISTRATION | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 21:33:28
+2025-06-25 21:33:28 - New user registered: tanvir22@gmail.com
+2025-06-25 21:33:46 - User logged in successfully: tanvir22@gmail.com
+2025-06-25 21:33:46 - Authentication successful for: tanvir22@gmail.com (Role: TOURIST)
+2025-06-25 21:33:46 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 21:33:46
+2025-06-25 21:33:46 - USER_ACTIVITY: LOGIN | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 21:33:46
+2025-06-25 21:33:46 - User logged in: tanvir22@gmail.com
+2025-06-25 21:33:49 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:33:49 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 21:33:49 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 21:33:49 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 21:34:32 - User updated: tanvir22@gmail.com
+2025-06-25 21:34:32 - Profile updated by tourist: tanvir22@gmail.com
+2025-06-25 21:35:24 - User updated: tanvir22@gmail.com
+2025-06-25 21:35:35 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:35:35 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:37:00 - Session cleanup completed
+2025-06-25 21:38:25 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:38:25 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:38:45 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:38:45 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:39:08 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:39:08 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:41:14 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 21:41:14 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 21:42:00 - Session cleanup completed
+2025-06-25 21:47:00 - Session cleanup completed
+2025-06-25 21:52:00 - Session cleanup completed
+2025-06-25 21:57:00 - Session cleanup completed
+2025-06-25 22:02:00 - Session cleanup completed
+2025-06-25 22:07:00 - Session cleanup completed
+2025-06-25 22:10:51 - === SYSTEM STARTUP ===
+2025-06-25 22:10:51 - Travel & Tourism Management System v1.0
+2025-06-25 22:10:51 - Startup time: 2025-06-25 22:10:51
+2025-06-25 22:10:51 - Java Version: 21.0.1
+2025-06-25 22:10:51 - Operating System: Windows 11
+2025-06-25 22:10:51 - File system initialized
+2025-06-25 22:10:51 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 22:10:51 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 22:10:51 - Core managers initialized
+2025-06-25 22:10:51 - System settings configured successfully
+2025-06-25 22:10:51 - Sample users created
+2025-06-25 22:10:51 - Package added: Sylhet City Tour
+2025-06-25 22:10:51 - Package added: Rangamati Hill Tracts Tour
+2025-06-25 22:10:51 - Package added: Bandarban Adventure Tour
+2025-06-25 22:10:51 - Package added: Dhaka City Heritage Tour
+2025-06-25 22:10:51 - Package added: Paharpur Buddhist Monastery Tour
+2025-06-25 22:10:51 - Package added: Mahasthangarh Archaeological Tour
+2025-06-25 22:10:51 - Package added: Kuakata Sea Beach Tour
+2025-06-25 22:10:51 - Package added: Panchagarh Tea Garden Tour
+2025-06-25 22:10:51 - Package added: Tangail Handloom Village Tour
+2025-06-25 22:10:51 - Package added: Jaflong Hill and Tea Garden Tour
+2025-06-25 22:10:51 - Package added: Chittagong City Tour
+2025-06-25 22:10:51 - Package added: Saint Martin's Island Tour
+2025-06-25 22:10:51 - Package added: Myanmar Border Tour
+2025-06-25 22:10:51 - Package added: Lalbagh Fort Tour
+2025-06-25 22:10:51 - Package added: Kaptai Lake Tour
+2025-06-25 22:10:51 - Package added: Bagerhat Mosque Tour
+2025-06-25 22:10:51 - Package added: Rural Village Experience Tour
+2025-06-25 22:10:51 - Sample packages created
+2025-06-25 22:10:51 - Sample hotels created
+2025-06-25 22:10:51 - Initial data seeded successfully
+2025-06-25 22:10:51 - Initial data seeding completed
+2025-06-25 22:10:51 - === SYSTEM HEALTH CHECK ===
+2025-06-25 22:10:51 - Total users: 6
+2025-06-25 22:10:51 - Total packages: 20
+2025-06-25 22:10:51 - Total hotels: 2
+2025-06-25 22:10:51 - Total guides: 2
+2025-06-25 22:10:51 - Total transports: 2
+2025-06-25 22:10:51 - Background tasks initialized
+2025-06-25 22:11:12 - User logged in successfully: tanvir22@gmail.com
+2025-06-25 22:11:12 - Authentication successful for: tanvir22@gmail.com (Role: TOURIST)
+2025-06-25 22:11:12 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 22:11:12
+2025-06-25 22:11:12 - USER_ACTIVITY: LOGIN | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 22:11:12
+2025-06-25 22:11:12 - User logged in: tanvir22@gmail.com
+2025-06-25 22:11:15 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 22:11:15 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 22:11:15 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 22:11:15 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 22:11:40 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 22:11:40 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 22:12:00 - Session cleanup completed
+2025-06-25 22:17:00 - Session cleanup completed
+2025-06-25 22:22:00 - Session cleanup completed
+2025-06-25 22:24:40 - === SYSTEM STARTUP ===
+2025-06-25 22:24:40 - Travel & Tourism Management System v1.0
+2025-06-25 22:24:40 - Startup time: 2025-06-25 22:24:40
+2025-06-25 22:24:40 - Java Version: 21.0.1
+2025-06-25 22:24:40 - Operating System: Windows 11
+2025-06-25 22:24:40 - File system initialized
+2025-06-25 22:24:40 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 22:24:40 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 22:24:40 - Core managers initialized
+2025-06-25 22:24:40 - System settings configured successfully
+2025-06-25 22:24:40 - Sample users created
+2025-06-25 22:24:40 - Sample packages created
+2025-06-25 22:24:40 - Sample hotels created
+2025-06-25 22:24:40 - Initial data seeded successfully
+2025-06-25 22:24:40 - Initial data seeding completed
+2025-06-25 22:24:40 - === SYSTEM HEALTH CHECK ===
+2025-06-25 22:24:40 - Total users: 6
+2025-06-25 22:24:40 - Total packages: 20
+2025-06-25 22:24:40 - Total hotels: 2
+2025-06-25 22:24:40 - Total guides: 2
+2025-06-25 22:24:40 - Total transports: 2
+2025-06-25 22:24:40 - Background tasks initialized
+2025-06-25 22:24:58 - User logged in successfully: tanvir22@gmail.com
+2025-06-25 22:24:58 - Authentication successful for: tanvir22@gmail.com (Role: TOURIST)
+2025-06-25 22:24:58 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 22:24:58
+2025-06-25 22:24:58 - USER_ACTIVITY: LOGIN | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-25 22:24:58
+2025-06-25 22:24:58 - User logged in: tanvir22@gmail.com
+2025-06-25 22:25:00 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 22:25:00 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-25 22:25:00 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-25 22:25:00 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-25 22:25:04 - INFO: File not found: bookings.dat. Creating new file.
+2025-06-25 22:25:04 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 22:27:00 - Session cleanup completed
+2025-06-25 22:27:51 - Booking added: BKGPTYN83IR
+2025-06-25 22:27:51 - Package updated: Tangail Handloom Village Tour
+2025-06-25 22:27:51 - New booking created: BKGPTYN83IR by tanvir22@gmail.com
+2025-06-25 22:27:51 - INFO: File not found: payments.dat. Creating new file.
+2025-06-25 22:28:24 - Payment added: PAYLUVYA8F9 - Amount: $14000.0
+2025-06-25 22:28:24 - Booking updated: BKGPTYN83IR
+2025-06-25 22:28:24 - User updated: tanvir22@gmail.com
+2025-06-25 22:28:24 - Invoice generated: INVCZDTIIJ3 for booking BKGPTYN83IR
+2025-06-25 22:28:24 - Payment confirmation sent to: tanvir22@gmail.com
+2025-06-25 22:28:24 - Booking confirmation sent to: tanvir22@gmail.com
+2025-06-25 22:28:24 - Payment processed: PAYLUVYA8F9 for booking BKGPTYN83IR
+2025-06-25 22:29:40 - Session cleanup completed
+2025-06-25 22:32:00 - System monitoring: Active sessions: 0
+2025-06-25 22:32:00 - Session cleanup completed
+2025-06-25 22:34:40 - Session cleanup completed
+2025-06-25 22:37:00 - Session cleanup completed
+2025-06-25 22:39:40 - Session cleanup completed
+2025-06-25 22:42:00 - Session cleanup completed
+2025-06-25 22:44:40 - Session cleanup completed
+2025-06-25 22:47:00 - Session cleanup completed
+2025-06-25 22:49:40 - Session cleanup completed
+2025-06-25 22:52:00 - Session cleanup completed
+2025-06-25 22:54:40 - Session cleanup completed
+2025-06-25 22:57:00 - Session cleanup completed
+2025-06-25 22:59:40 - Session cleanup completed
+2025-06-25 23:02:00 - Session cleanup completed
+2025-06-25 23:04:40 - Session cleanup completed
+2025-06-25 23:07:00 - Session cleanup completed
+2025-06-25 23:09:40 - Session cleanup completed
+2025-06-25 23:12:00 - Session cleanup completed
+2025-06-25 23:14:40 - Session cleanup completed
+2025-06-25 23:17:01 - Session cleanup completed
+2025-06-25 23:19:40 - Session cleanup completed
+2025-06-25 23:22:01 - Session cleanup completed
+2025-06-25 23:24:40 - System monitoring: Active sessions: 0
+2025-06-25 23:24:40 - Session cleanup completed
+2025-06-25 23:27:01 - Session cleanup completed
+2025-06-25 23:29:40 - Session cleanup completed
+2025-06-25 23:32:00 - System monitoring: Active sessions: 0
+2025-06-25 23:32:01 - Session cleanup completed
+2025-06-25 23:34:40 - Session cleanup completed
+2025-06-25 23:42:17 - Session cleanup completed
+2025-06-25 23:44:56 - Session cleanup completed
+2025-06-25 23:47:17 - Session cleanup completed
+2025-06-26 00:04:46 - === SYSTEM STARTUP ===
+2025-06-26 00:04:46 - Travel & Tourism Management System v1.0
+2025-06-26 00:04:46 - Startup time: 2025-06-26 00:04:46
+2025-06-26 00:04:46 - Java Version: 21.0.1
+2025-06-26 00:04:46 - Operating System: Windows 11
+2025-06-26 00:04:46 - File system initialized
+2025-06-26 00:04:46 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-26 00:04:46 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-26 00:04:46 - Core managers initialized
+2025-06-26 00:04:46 - System settings configured successfully
+2025-06-26 00:04:46 - Sample users created
+2025-06-26 00:04:46 - Sample packages created
+2025-06-26 00:04:46 - Sample hotels created
+2025-06-26 00:04:46 - Initial data seeded successfully
+2025-06-26 00:04:46 - Initial data seeding completed
+2025-06-26 00:04:46 - === SYSTEM HEALTH CHECK ===
+2025-06-26 00:04:46 - Total users: 6
+2025-06-26 00:04:46 - Total packages: 20
+2025-06-26 00:04:46 - Total hotels: 2
+2025-06-26 00:04:46 - Total guides: 2
+2025-06-26 00:04:46 - Total transports: 2
+2025-06-26 00:04:46 - Background tasks initialized
+2025-06-26 00:05:27 - User logged in successfully: tanvir22@gmail.com
+2025-06-26 00:05:27 - Authentication successful for: tanvir22@gmail.com (Role: TOURIST)
+2025-06-26 00:05:27 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-26 00:05:27
+2025-06-26 00:05:27 - USER_ACTIVITY: LOGIN | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-26 00:05:27
+2025-06-26 00:05:27 - User logged in: tanvir22@gmail.com
+2025-06-26 00:05:30 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-26 00:05:30 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-26 00:05:30 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-26 00:15:57 - === SYSTEM STARTUP ===
+2025-06-26 00:15:57 - Travel & Tourism Management System v1.0
+2025-06-26 00:15:57 - Startup time: 2025-06-26 00:15:57
+2025-06-26 00:15:57 - Java Version: 21.0.1
+2025-06-26 00:15:57 - Operating System: Windows 11
+2025-06-26 00:15:57 - File system initialized
+2025-06-26 00:15:57 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: refunds.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: vehicles.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-26 00:15:57 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-26 00:15:57 - Core managers initialized
+2025-06-26 00:15:57 - System settings configured successfully
+2025-06-26 00:15:57 - Sample users created
+2025-06-26 00:15:57 - Sample packages created
+2025-06-26 00:15:57 - Sample hotels created
+2025-06-26 00:15:57 - Initial data seeded successfully
+2025-06-26 00:15:57 - Initial data seeding completed
+2025-06-26 00:15:57 - === SYSTEM HEALTH CHECK ===
+2025-06-26 00:15:57 - Total users: 6
+2025-06-26 00:15:57 - Total packages: 20
+2025-06-26 00:15:57 - Total hotels: 2
+2025-06-26 00:15:57 - Total guides: 2
+2025-06-26 00:15:57 - Total transports: 2
+2025-06-26 00:15:57 - Background tasks initialized
+2025-06-26 00:16:12 - User logged in successfully: tanvir22@gmail.com
+2025-06-26 00:16:12 - Authentication successful for: tanvir22@gmail.com (Role: TOURIST)
+2025-06-26 00:16:12 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-26 00:16:12
+2025-06-26 00:16:12 - USER_ACTIVITY: LOGIN | User: Tanvir (tanvir22@gmail.com) | Role: TOURIST | Time: 2025-06-26 00:16:12
+2025-06-26 00:16:12 - User logged in: tanvir22@gmail.com
+2025-06-26 00:16:15 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-06-26 00:16:15 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-06-26 00:16:15 - INFO: File not found: ratings.dat. Creating new file.
+2025-06-26 00:20:57 - Session cleanup completed
+2025-06-26 00:25:57 - Session cleanup completed
+2025-06-26 00:30:57 - Session cleanup completed
+2025-07-17 21:52:19 - === SYSTEM STARTUP ===
+2025-07-17 21:52:19 - Travel & Tourism Management System v1.0
+2025-07-17 21:52:19 - Startup time: 2025-07-17 21:52:19
+2025-07-17 21:52:19 - Java Version: 1.8.0_202
+2025-07-17 21:52:19 - Operating System: Windows 10
+2025-07-17 21:52:19 - File system initialized
+2025-07-17 21:52:19 - INFO: File not found: vehicles.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: ratings.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: refunds.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: vehicles.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-07-17 21:52:19 - INFO: File not found: ratings.dat. Creating new file.
+2025-07-17 21:52:19 - Core managers initialized
+2025-07-17 21:52:19 - System settings configured successfully
+2025-07-17 21:52:19 - Sample users created
+2025-07-17 21:52:19 - Sample packages created
+2025-07-17 21:52:19 - Sample hotels created
+2025-07-17 21:52:19 - Initial data seeded successfully
+2025-07-17 21:52:19 - Initial data seeding completed
+2025-07-17 21:52:19 - === SYSTEM HEALTH CHECK ===
+2025-07-17 21:52:19 - Total users: 6
+2025-07-17 21:52:19 - Total packages: 20
+2025-07-17 21:52:19 - Total hotels: 2
+2025-07-17 21:52:19 - Total guides: 2
+2025-07-17 21:52:19 - Total transports: 2
+2025-07-17 21:52:19 - Background tasks initialized
+2025-07-17 21:53:21 - Failed login attempt for: tanvir23@gmail.com (Attempt: 1)
+2025-07-17 21:53:21 - Authentication failed for: tanvir23@gmail.com
+2025-07-17 21:53:38 - Authentication failed - invalid input format: 
+2025-07-17 21:54:57 - User added: tanvir23@gmail.com
+2025-07-17 21:54:57 - Welcome email sent to: tanvir23@gmail.com
+2025-07-17 21:54:57 - New user registered: tanvir23@gmail.com (Role: TOURIST)
+2025-07-17 21:54:57 - USER_ACTIVITY: REGISTRATION | User: Tanvir (tanvir23@gmail.com) | Role: TOURIST | Time: 2025-07-17 21:54:57
+2025-07-17 21:54:57 - New user registered: tanvir23@gmail.com
+2025-07-17 21:55:14 - User logged in successfully: tanvir23@gmail.com
+2025-07-17 21:55:14 - Authentication successful for: tanvir23@gmail.com (Role: TOURIST)
+2025-07-17 21:55:14 - USER_ACTIVITY: TOURIST_ACCESS | User: Tanvir (tanvir23@gmail.com) | Role: TOURIST | Time: 2025-07-17 21:55:14
+2025-07-17 21:55:14 - USER_ACTIVITY: LOGIN | User: Tanvir (tanvir23@gmail.com) | Role: TOURIST | Time: 2025-07-17 21:55:14
+2025-07-17 21:55:14 - User logged in: tanvir23@gmail.com
+2025-07-17 21:55:16 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-07-17 21:55:16 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-07-17 21:55:16 - INFO: File not found: ratings.dat. Creating new file.
+2025-07-17 21:57:19 - Session cleanup completed
+2025-07-17 22:02:19 - Session cleanup completed
+2025-07-17 22:04:21 - === SYSTEM STARTUP ===
+2025-07-17 22:04:21 - Travel & Tourism Management System v1.0
+2025-07-17 22:04:21 - Startup time: 2025-07-17 22:04:21
+2025-07-17 22:04:21 - Java Version: 1.8.0_202
+2025-07-17 22:04:21 - Operating System: Windows 10
+2025-07-17 22:04:21 - File system initialized
+2025-07-17 22:04:21 - INFO: File not found: vehicles.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: ratings.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: refunds.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: vehicles.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: guide_assignments.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: package_reviews.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: hotel_reviews.dat. Creating new file.
+2025-07-17 22:04:21 - INFO: File not found: ratings.dat. Creating new file.
+2025-07-17 22:04:21 - Core managers initialized
+2025-07-17 22:04:21 - System settings configured successfully
+2025-07-17 22:04:21 - Sample users created
+2025-07-17 22:04:21 - Sample packages created
+2025-07-17 22:04:21 - Sample hotels created
+2025-07-17 22:04:21 - Initial data seeded successfully
+2025-07-17 22:04:21 - Initial data seeding completed
+2025-07-17 22:04:21 - === SYSTEM HEALTH CHECK ===
+2025-07-17 22:04:21 - Total users: 7
+2025-07-17 22:04:21 - Total packages: 20
+2025-07-17 22:04:21 - Total hotels: 2
+2025-07-17 22:04:21 - Total guides: 2
+2025-07-17 22:04:21 - Total transports: 2
+2025-07-17 22:04:21 - Background tasks initialized
+2025-07-17 22:07:19 - Session cleanup completed
+2025-07-17 22:09:21 - Session cleanup completed
+2025-07-17 22:12:19 - Session cleanup completed
+2025-07-17 22:14:21 - Session cleanup completed
+2025-07-17 22:17:19 - Session cleanup completed
